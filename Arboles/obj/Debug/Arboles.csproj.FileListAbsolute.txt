@@ -1,0 +1,9 @@
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Arboles\Arboles\bin\Debug\Arboles.exe.config
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Arboles\Arboles\bin\Debug\Arboles.exe
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Arboles\Arboles\bin\Debug\Arboles.pdb
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Arboles\Arboles\obj\Debug\Arboles.csprojResolveAssemblyReference.cache
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Arboles\Arboles\obj\Debug\Arboles.Properties.Resources.resources
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Arboles\Arboles\obj\Debug\Arboles.csproj.GenerateResource.Cache
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Arboles\Arboles\obj\Debug\Arboles.exe
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Arboles\Arboles\obj\Debug\Arboles.pdb
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\Arboles\Arboles\obj\Debug\Arboles.Form1.resources
