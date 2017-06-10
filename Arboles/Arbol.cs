@@ -132,6 +132,38 @@ namespace Arboles
 			res += r.ToString();
 			return res;
 		}
+		
+		private Nodo Buscar(int dato, Nodo x)
+		{
+			Nodo encontrado = null;
+			if (dato == x.dato)
+			{
+				encontrado= x;
+			}
+			else if (dato < x.dato)
+			{
+				if (x.izq != null)
+				{
+					encontrado= Buscar(dato, x.izq);
+				}
+				else
+				{
+					encontrado= null;
+				}
+			}
+			else if (dato > x.dato)
+			{
+				if (x.der != null)
+				{
+					encontrado= Buscar(dato, x.der);
+				}
+				else
+				{
+					encontrado= null;
+				}
+			}
+			return encontrado;
+		}
 
 	}
 }
